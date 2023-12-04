@@ -23,3 +23,7 @@ Ti permette di sostituire il colore.
 ### AggiungiCarta
 
 Ti permette di sostituire la carta.
+
+## Metodi della classe Pagina
+
+La classe pagina ha due costruttori, uno che accetta dei colori specifici con un valore massimo di 3 e l'altro che crea una pagina con colori random
