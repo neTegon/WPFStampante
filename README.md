@@ -15,3 +15,11 @@ Ti mostra lo stato della carta.
 ### StatoInchiostro
 
 Ti mostra lo stato dell'inchiostro.
+
+### SostituisciColore
+
+Ti permette di sostituire il colore.
+
+### AggiungiCarta
+
+Ti permette di sostituire la carta.
